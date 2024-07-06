@@ -1,4 +1,4 @@
-# Motor de Corrente Contínua (DC) - Modelo e Simulação () :woman_technologist:	
+# Motor de Corrente Contínua (DC) - Modelo e Simulação :woman_technologist:	
 ![Badge Conclusão](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge) :shipit:
 
 
@@ -66,8 +66,8 @@ Figura 2: Resposta da Velocidade Angular do Motor DC
 
 Este projeto foi elaborado e construído no Laboratório Aerotech situado no Departamento de Engenharia Aeronáutica da Universidade de São Paulo (campus São Carlos).
 
-* **Lara Morais** - [![Gmail Badge](https://img.shields.io/badge/-laramorais@usp.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laramorais@usp.br)](mailto:laramorais@usp.br)
-* **Carlos Persiani** - [![Gmail Badge](https://img.shields.io/badge/-carlospersiani@usp.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlospersiani@usp.br)](mailto:carlospersiani@usp.br)
+* **Lara Melanie Bastos de Morais** - [![Gmail Badge](https://img.shields.io/badge/-laramorais@usp.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laramorais@usp.br)](mailto:laramorais@usp.br)
+* **Carlos Persiani** - [![Gmail Badge](https://img.shields.io/badge/-carlospersiani@usp.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlospersiani@usp.br)]
 
 
 
