@@ -87,7 +87,7 @@ O código MATLAB fornecido realiza a modelagem e simulação do motor DC. Ele es
 3. **Simulação da Resposta do Sistema:** A resposta do sistema é simulada utilizando a função `lsim` do MATLAB, que resolve as equações diferenciais do sistema para as entradas definidas.
 4. **Plotagem dos Resultados:** Os gráficos da corrente e da velocidade angular ao longo do tempo são gerados e exibidos.
 
-![IMG_20230616_140339](https://github.com/melmorais/motorDC/assets/saida.png)
+![IMG_20230616_140339](/assets/saida.png)
 
 ## Desenvolvimento e Contribuição :shipit:	
 
