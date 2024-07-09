@@ -4,7 +4,7 @@
 
 # Introdução
 
-Este projeto consiste na modelagem e simulação de um motor de corrente contínua (DC) utilizando representação em espaço de estados. O objetivo é analisar a resposta do sistema a entradas degrau de tensão e torque aplicadas em tempos específicos.
+Este projeto consiste na modelagem e simulação de um motor DC utilizando representação em espaço de estados. O objetivo é analisar a resposta do sistema a entradas degrau de tensão e torque aplicadas em tempos específicos, além de propor um modelo para estimar as eficiências elétrica e mecânica.
 
 ## Problema Proposto
 
@@ -86,8 +86,11 @@ O código MATLAB fornecido realiza a modelagem e simulação do motor DC. Ele es
 2. **Construção do Sistema em Espaço de Estados:** As matrizes \( A \), \( B \), \( C \) e \( D \) são definidas com base nos parâmetros do motor.
 3. **Simulação da Resposta do Sistema:** A resposta do sistema é simulada utilizando a função `lsim` do MATLAB, que resolve as equações diferenciais do sistema para as entradas definidas.
 4. **Plotagem dos Resultados:** Os gráficos da corrente e da velocidade angular ao longo do tempo são gerados e exibidos.
+5. **Estimativa das Eficiências Elétrica e Mecânica:** Um modelo adjacente é proposto para estimar as eficiências elétrica e mecânica do motor, comparando-as ao longo do tempo.
 
-![IMG_20230616_140339](/assets/saida.png)
+As saídas podem ser visualizadas abaixo:
+
+![IMG_20230616_140339](/assets/saidas.png)
 
 ## Desenvolvimento e Contribuição :shipit:	
 
